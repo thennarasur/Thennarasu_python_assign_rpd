@@ -18,7 +18,7 @@ You have to install selenium package in the environment to run the notebook.
 Thus automated the downloading of a file. Got all the tickers current data.  
 
 *Note*  
-check the jupiter notebook file above for the code.
+check the jupyter notebook file above for the code.
 
  
 
