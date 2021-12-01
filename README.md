@@ -15,7 +15,11 @@ I have to get all the tickers current data as a csv file from the website(zacks.
 You have to install selenium package in the environment to run the notebook.
 
 **Conclusion**  
-Thus automated the downloading of a file. Got all the tickers current data.
+Thus automated the downloading of a file. Got all the tickers current data.  
+
+*Note*  
+check the jupiter notebook file above for the code.
+
  
 
 
